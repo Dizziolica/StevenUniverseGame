@@ -15,7 +15,7 @@ Simple Game From The Fun Steven Universe
     <img src="/stevenhead.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Utility Project/h3>
+  <h3 align="center">Utility Project </h3>
 
   <p align="center">
     Utility Project
