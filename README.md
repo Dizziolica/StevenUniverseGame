@@ -12,7 +12,7 @@ Simple Game From The Fun Steven Universe
 <br />
 <div align="center">
   <a href="https://github.com/Dizziolica/Utility/blob/main/ligacao.py">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="/stevenhead.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Utility Project/h3>
