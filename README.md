@@ -69,8 +69,7 @@ Simple Game From The Fun Steven Universe
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+this game was made in python and I used a module to make games in this language called pygame, I chose this module because there is already available much content that works with this "tool
 
 
 ## INTRO
