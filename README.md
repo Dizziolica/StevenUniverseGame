@@ -6,7 +6,7 @@ Simple Game From The Fun Steven Universe
 
 <img
   src="background.png"
-   style="display: inline-block; margin: 0 auto; max-width: max-content; max-height: max-content">
+   style=" max-width: max-content; max-height: max-content">
 
 
 <!-- PROJECT LOGO -->
