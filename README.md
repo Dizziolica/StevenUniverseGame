@@ -4,8 +4,9 @@ Simple Game From The Fun Steven Universe
 <a name="readme-top"></a>
 
 
-![](https://github.com/Dizziolica/StevenUniverseGame/blob/main/steven.gif)
-
+<img
+  src="/background.jpg"
+   style="display: inline-block; margin: 0 auto; max-width: max-content; max-height: max-content">
 
 
 <!-- PROJECT LOGO -->
