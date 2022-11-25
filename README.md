@@ -4,9 +4,7 @@ Simple Game From The Fun Steven Universe
 <a name="readme-top"></a>
 
 
-<img
-  src="background.png"
-   style=" max-width: max-content; max-height: max-content">
+
 
 
 <!-- PROJECT LOGO -->
